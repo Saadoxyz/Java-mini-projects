@@ -53,12 +53,6 @@ Here’s a complete professional README file for your Java utilities project, in
 
 ---
 
-<h1 align="center"><strong>🔧 Java Utilities Suite</strong></h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Versatile+Java+Utilities+for+Everyday+Tasks;Educational+%7C+Mathematical+%7C+Demographic+Tools" alt="Typing SVG" />
-</div>
-
 <p align="center">
   A collection of beginner-to-intermediate Java programs designed to solve real-world problems across education, math, and data analysis.
 </p>
